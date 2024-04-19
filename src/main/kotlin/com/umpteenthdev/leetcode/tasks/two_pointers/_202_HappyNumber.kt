@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 import kotlin.math.log10
 

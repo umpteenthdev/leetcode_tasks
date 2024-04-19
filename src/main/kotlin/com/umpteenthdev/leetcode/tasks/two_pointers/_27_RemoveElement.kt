@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 /**
  * Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.

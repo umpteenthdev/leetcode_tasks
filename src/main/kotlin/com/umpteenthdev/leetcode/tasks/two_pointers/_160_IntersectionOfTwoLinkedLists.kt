@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 /**
  * Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect.

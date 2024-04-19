@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 /**
  * Given two strings needle and haystack, return the index of the first occurrence of needle in haystack,

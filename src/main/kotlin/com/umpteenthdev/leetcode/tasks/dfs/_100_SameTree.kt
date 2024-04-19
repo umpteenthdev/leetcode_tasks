@@ -1,4 +1,4 @@
-package com.umpteenthdev.dfs
+package com.umpteenthdev.leetcode.tasks.dfs
 
 import java.util.*
 

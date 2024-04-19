@@ -1,4 +1,4 @@
-package com.umpteenthdev.dp
+package com.umpteenthdev.leetcode.tasks.dp
 
 import kotlin.math.min
 

@@ -1,4 +1,4 @@
-package com.umpteenthdev.dp
+package com.umpteenthdev.leetcode.tasks.dp
 
 fun main() {
     val r = climbStairs(3)

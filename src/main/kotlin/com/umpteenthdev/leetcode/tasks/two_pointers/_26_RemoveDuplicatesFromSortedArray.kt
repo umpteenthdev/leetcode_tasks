@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 /**
  * Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique

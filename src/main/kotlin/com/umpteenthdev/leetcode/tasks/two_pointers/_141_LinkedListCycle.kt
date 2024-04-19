@@ -1,4 +1,4 @@
-package com.umpteenthdev.two_pointers
+package com.umpteenthdev.leetcode.tasks.two_pointers
 
 data class ListNode(var `val`: Int) {
     var next: ListNode? = null
